@@ -1,0 +1,1180 @@
+Link: https://homebrewery.naturalcrit.com/edit/HyEq3usVkV
+
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+# Downpour
+
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### Navigate along the flooded river to find the source disrupting the elements
+</div>
+
+\page
+<div class='toc'>
+##### Table Of Contents
+- **[Introduction](#p3)**...........................................2
+  - [Adventure Background](#p3)...................2
+  - - [The Myth of Chaspayu](#p3)..............2
+  - - [The Bogataw Firbolgs](#p3)..............2
+  - - [Reclaimed by Nature](#p4)................3
+  - - [Rivergoer Life](#p4)............................3
+  - - [The Water Coven](#p4).......................3
+  - - [Elements In Flux](#p4).......................3
+  - [Running the Adventure](#p4)...................3
+  - - [Adventure Synopsis](#p7)...................
+  - - [The Loud Fairy](#p8)...........................
+  - - [Aid Supplies](#p9)................................
+  - - [The Coming Storm](#p10)....................
+  - - [Leveling Up](#p10).................................
+- **[Part 1 Snake River](#p11)**.............................
+  - [Sleepy Snake](#p11)...................................
+  - - Sleepy Snake Tavern
+  - - Steve's Bait Shop
+  - - Baermor's Frontier Supplies
+  - - Snakeberry Shrine
+  - Fangs of the Snake
+  - - Navigating the Fangs
+  - - Tortle Cave
+  - - Snagged Ring
+  - - Abandoned Canoe
+  - - Broken Barge
+  - Mud Valley
+  - - Mysterious Fog
+  - - Glowing Orbs
+  - - Natural Obstacles
+  - - Muddy Waters
+  - Belly of the Snake
+  - - The Plagues
+  - - Endangered Fisherman
+  - - Shell Shock
+  - - The Kenku Cawers
+  - - Boggart Hunting Party
+  - - Muddy Waters
+  - Snake Bottom
+  - - Snake Bottom Inn
+  - - Frontiersman's Guild
+  - - F.E.M.A. Outpost
+  - - Farfor's Imports
+  - - Armoury
+  - - Missionary's Temple
+  - - Apothecary
+  - - Boatwright
+  - Snake Lake
+  - - The First of the Coven
+  - - Bead of Binding
+- **[Part 2 Confluence](#p1)**
+  - Floodwaters
+  - - Crazy Kayaker
+  - - Engine Troubles
+  - - Drowning Drow
+  - - Turbulent Waters
+  - - Cowabunga Combat
+  - - F.E.M.A. Relief Convoy
+  - F.E.M.A. Checkpoint
+  - - F.E.M.A. Captain
+  - - Rush to Oxbow
+  - - Ambush of Elements
+  - Oxbow Port
+  - - Oxbow Inn
+  - - Fisher's Guild
+  - - Armoury
+  - - Apothecary
+  - - General Store
+  - - Clothing
+  - - Distillery
+  - - Boatwright
+  - - Exporter's
+  - Oxbow Farms
+  - - Oxbow Gardens
+  - - Goats in a Boat
+  - - Square Dance Square Off
+  - - Boggart Raid
+  - - Flooded Farms
+  - Tribal Tributary
+  - - Hidden Guides
+  - Boggart Battle Barge
+  - - Meeting the Big River Boss
+  - Swampwater Port
+  - - Swampy Stowaway
+  - - Town Tinkerer
+  - - Swamp Witch's Hut
+  - - Hunter's Klub
+  - - Bog's Eatery
+- **[Part 3 Bogataw Swamp](#p1)**
+  - Bogataw Village
+  - Boggart Bayou
+  - Green Lake
+  - Flooded Village
+  - Shadowed Swamp
+  - Gnome Grotto
+  - Hole of Horror
+</div>
+<div class='pageNumber'>1</div>
+<div class='footnote'>Table of Contents</div>
+
+\page
+# Introduction
+Strange weather is devastating the Bogataw River.  Can you navigate the flooded waters and deliver aid to the affected region?  Downpour is an adventure for 3 to 5 player characters starting at the 1st level with the adventure concluding at the 5th level.
+
+The adventure takes place in the Bogataw Delta, a non-canonical area on the frontier of the forest wilderness.  The adventure has additional rules, so read the Running the Adventure section carefully.  The adventure is highly episodic, with players moving from one area to the next without being able to go back and with forked paths, making the story's progression somewhat predictable.  Because of this, it may not be necessary to review the adventure too far in advance.
+
+## Adventure Background
+The Bogataw Delta normally serves as a quiet path to the southern edge of the frontier, where adventurers, settlers, and missionaries all seek to claim the area from the natural forces that lurk there.  In the north, wild men move up the Snake River to explore the unknown forests beyond.  Further downstream, an oxbow formed in the river allows for farmers a try at a new life.  In the south, a tributary leads to a murky swamp, where the Buggarts and Gnomebillies find charm in all the things that drive others away from the area.
+
+Rampant storms have started to flood the Bogataw Delta with increasing intensity causing devstation throughout the various settlements.  Among the threatened settlements is Gnome Grotto, home of Boss Bo, captain of the Loud Fairy and employer of the player characters.  Despite the perils of the storm and natural dangers along the river, Boss Bo seeks a crew to help him deliver aid supplies.
+
+### The Myth of Chaspayu
+The Bogataw Firbolgs tell the story of a great guardian spirit in the form of a snake named Chaspayu who protected the delta from those who would harm it.  Long ago, elves moved to the region and expand swiftly.  As they built their greatest city into what is now know as Snake Mountain, Chaspayu rose up against them, carving a path from the Bogataw River north towards the elves, destroying all in its path.  For their final stand, the elves had created magic weapons, known as the Beads of Binding.  As Chaspayu crashed down upon their city, the elves banished Chaspayu to another plane.  Although they had been wiped from the area, so too was the guardian spirit Chaspayu.  The Snake River is said to be the path Chaspayu carved, with Snake Lake the origin of his furious rampage. 
+```
+```
+### The Bogataw Firbolgs
+The Bogataw Firbolgs have inhabited the Bogataw Delta region as long as anyone can remember, so long that the area is named after their word for themselves.  They are generally peaceful, but are protective of their secrets, not speaking to outsiders, and guarding areas with awakened trees.  They are wary of the increasing expnasion of the outsiders, and fear Chaspayu's return.  The storms only reinforce their belief that the gods are angry with the settlers, and some believe the only way to save their homeland land is to drive away the outsiders.  
+
+The Bogataw Firbolgs wear wreaths of a local plant called Snakeberry, and greet each other in a ritual of respect where they bow then pick a berry from each other's wreaths.  Having grown on the river and with their large stature, the Bogataw Firbolgs are able to propel their canoes with great speed and dexterity.  Due to the other hostile inhabitants of the Bogataw Delta, the Firbolgs are also adept warriors and hunters, priding themselves most on their Giant Alligator and Dragon Turtle trophies.  To be accepted as an outsider by the Bogataw would take a feat brave enough to impress them.
+<img src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/188/250/256/c2-2.png' style='position:absolute;bottom:90px;right:-20px;width:450px' />
+<div class='pageNumber'>2</div>
+<div class='footnote'>Introduction</div>
+
+\page
+<img src='https://www.dandwiki.com/w/images/9/91/Bullywugs2.png' style='position:absolute;top:20px;right:30px;width:400px' />
+### Reclaimed By Nature
+The natural inhabitants of the Bogataw Delta seem to be the Bollywogs and Snapping Tortles which have fairly developed, if isolated societies.  They wish to drive all other races out of the Bogataw and claim it for themselves, and so they consistently perform raids on the surrounding communities.  
+
+After the elves were driven out of the Bogataw Delta, Snapping Tortles moved into the ruins and quickly prospered, much to the jealousy of the Bollywogs.  With the flooding, the Tortles and Bollywogs couldn't be happier, hoping to aid the summoning of Chaspayu in any way they can, especially targetting Firbolgs and their allies.
+
+In addition to the sentient life that occupies the Bogataw, particularly large creatures lurk in the area.  Reports of halflings drained completely dry by mosquitoes, alligators as large as boats, and toads being ridden as mounts circulate the various inns along the river.
+
+### Rivergoer Life
+Being at the forefront of the frontier, the Bogataw Delta is sparsely populated, with most of the towns existing to support the passing adventurers.  All sorts of races make it out to Bogataw for their various reasons, be it hunting, claiming new land, spreading the word of their god, or general trade, the Bogataw offers a wild life free from the large crowds one might encounter further up on Big River.
+
+In addition to the general settlers, goblins and gnomes have found a particularly cozy home in the southern swamp of the delta.  Goblins, known as Buggarts in the region, love a good hunt and cook out and are reckless to get it.  Using special machinery they race down the river in tiny boats, looting and hunting all the way.  Buggarts aren't inherently hostile, but they are opportunistic and will use violence if it seems like an easy choice.
+
+Swamp gnomes, known as Gnomebillies, are quite similar to the Buggarts of the region, and the two tend to get along, especially since Gnomebilly tinkerers supply most of the hooch and guns for the Buggarts.  Unlike the Buggarts, Gnomebilly culture emphasize hospitality, so they tend to welcome outsiders rather than take advantage of them.
+
+### The Water Coven
+The storms are no coincidence, but the work of three hags who are in the process of forming a coven.  They had learned about the Beads of Binding from a captured Bogataw shaman, and soon spread out to retrieve the powerful artifacts.  
+
+At Snake Lake awaits the weakest of the hags, who guards the captured shaman and first Bead of Binding for her sisters.  At Green Lake, the second strongest hag unleashes evil upon the farmers in a rage that the first hag has stolen one of her Beads of Binding.  Finally, the strongest of the hags resides in the coven's base, holding the final Bead of Binding.  
+
+As they see the power of the storms increasing, the more confident the power of their coven, eventually leading the three to reconcile and discover the true power of the beads.
+```
+```
+<div style='margin-top:300px'>
+  
+### Elements In Flux
+The disturbance of the Beads of Binding has caused the natural spirits to awaken to the new intrusion upon the wilderness.  Elementals run amok, mindlessly attacking all that get in their way.  In addition to the awakening of the elementals, the magic that manipulates them appears to be affected as well, with reports of casters spells fizzling out, or being extra powerful.
+
+## Running the Adventure
+This adventure assumes races and classes from the 5th edition book are being used, but should work for any homebrew additions given they are appropriately balanced.  Because the story revolves around a rushing river and Boss Bo's desire to get to Gnome Grotto, the adventure follows a fairly linear path, with few opportunities to go back to areas missed.  The synopsis below outlines the flow of the story.
+
+#### Leveling Up
+Rather than tracking experience points, players will advance at certain points in the story.  Level advancement will be noted at the point of the chapter it occurs.
+### Adventure Synopsis
+The player characters start in the camp of Sleepy Snake, having arrived there through a caravan of pioneers who cleared the mountains in the east.  The player characters are gathered at a log cabin inn seeking shelter from the storms outside when Boss BO approaches them and explains his situation.  As Boss Bo is the only way out of the camp due to the weather, the players should accept his quest for whatever reason they need.  After exploring Sleepy Snake, the players will board the Loud Fairy and head south towards the Fangs of the Snake.  After clearing the Fangs of the Snake, the player characters are faced with a fork in the river, where they must choose between the Mud Valley or Belly of the Snake.  Either choice leads to the town of Snake Bottom.
+</div>
+<div class='pageNumber'>3</div>
+<div class='footnote'>Introduction</div>
+
+\page
+
+From here players have the choice to visit the location of Snake Lake and confront the Lake Hag there.  From Snake Bottom, the characters enter the Floodwaters.  From here, players arrive at Oxbow Port.  From Oxbow Port, chracters can visit Oxbow Farms and the Green Lake, or continue on down the Bogataw River or the Tribal Tributary if they know its secret location.  
+
+Continuing on the Bogataw River leads to the village of Swampwater.  The Tribal Tributary ends in the Bogataw Village. 
+Swampwater leads directly to the Boggart Bayou, and from the Boggart Bayou and Bogataw Village, the characters have the ability to travel back and forth as well as to The Boss' Pad, which leads to Hole of Horrors where the final hag resides.  From The Boss' Pad or Bogataw Village, players can proceed to Gnome Grotto.  Finally the players will confront Chaspayu himself where he rises anew.
+
+### The Loud Fairy
+The Loud Fairy is the ultimate creation of the Tinkerer Boss Bo, a giant paddle wheel boat powered by captured steam elementals.  The boat requires a pilot as well as the engine lever to stay in the on position.  
+
+The paddle wheel is a dangerous construct and any creature knocked into it suffers 8d8 bludgeoning damage and is knocked off the ship.  
+
+The ship itself is quite sturdy, and barring extraordinary circumstances can survive most beatings the river has to offer.
+### Aid Supplies
+Boss Bo's journey relies on delivering enough aid supplies to Gnome Grotto to help.  He will refuse to advance if there are not enough aid supplies, represented in **supply points**, and will require the players loan him money so he can purchase more at 5 gp per **supply point**
+
+Although the Loud Fairy itself can take a beating, it is still a rickety ship, and supplies tend to get thrown overboard.  Players should be careful when navigating otherwise the journey can get rather expensive!
+### The Coming Storm
+Boss Bo is in a hurry to deliver aid before the next storm hits, but there's only so much time to sail in the flooded waters.  Certain events have a **time point** listed with them.  At certain parts of the chapters, it will be noted that attempted and completed events with **time points** should have their number tallied, then certain effects occur depending on the number of points accrued.
+>The number of **time points** does not reset.  Dungeon Masters should track this number throughout the campaign to appropriately assign consequences.
+<div style='margin-top:0px'>
+<img 
+  src='https://i.imgur.com/92r3Q4e.png' 
+  style='width:325px'>
+</div>
+
+
+
+
+<img 
+  src='http://www.mainlesson.com/books/eggleston/first/zpage142a.gif' 
+  style='width:325px' />
+<div class='pageNumber'>4</div>
+<div class='footnote'>Introduction</div>
+\page
+
+# Chapter 1: Snake River
+Snake River flows from the unexplored west, and meets the Bogataw River in the south at Snake Bottom.  Normally only nimble explorers who can navigate the deadly rapids known as the Fangs of the Snake travel upriver, but recently a caravan company has discovered a pass through the mountains, bringing new waves of pioneers to the normally quiet camp of Sleepy Snake, which lies just beyond the Fangs.  The player characters have come in the latest wave, but have heard that they cannot continue forward, as the flooding wiped out the caravan as the attempted to continue upriver and the cannot go back due to mudslides. 
+
+The adventure starts with all the players gathered before Boss Bo at the Sleepy Snake Inn, a quickly assembled log cabin with a single long table, a small iron stove behind a counter, and several cots in the back.
+
+
+Boss Bo begins the adventure by giving a monologue detailed below.
+
+
+**Caravan Payment.**  Pioneers spend their life savings to get a spot in the caravans going west.  Player characters start with 50 gp less than normal, even if bankrupts them.
+
+## Snake Bottom
+Snake Bottom is a small camp northwest of the Fangs of the Snake.  A few vendors have set up permanent locations, but otherwise the population is transient.  Apart from the buildings alongside the riverside, the forest dominates the landscape.  Hidden amongst the trees is an ancient wood elf shrine who can be found by following the path of a local plant called Snakeberries.  Apart from a few canoes and a kayak, a paddelwheel barge sits alongside the rickety wooden pier.
+### Snake Bottom Inn
+The Snake Bottom Inn is a large, longhouse-style cabin.  On one side are a series of small cots, on the other a long wooden table where all the guests sit.  In the corner is wooden counter with a small iron stove behind it.  Next to the stove are various crates and barrels filled with grog and various foodstuffs.  The rain is getting bad enough that water drips from certain parts of the ceiling, making the straw floor smell damp.
+
+#### Boss Bo
+Boss Bo (NG Gnomebilly) kicks off the adventure with a monologue about hit home of Gnome Grotto, a tiny village built in the murky depths of the Bogataw Swamp.  As captain of the Loud Fairy, he's traveled up and down all regions of the Bogataw Delta many a time, and with his "patented paddlewheel technology (patent pending)", he can usually move upstream, making him a cherished resource for those in the Sleepy Snake camp.  He's fairly good-spirited due to his moonshine intake, but quick to anger.  Boss Bo appears to only wear a straw hat and overalls, yet he manages to carry many a useful item on his person.
+```
+```
+**Treasure.**  Boss Bo loves to tinker and is constantly working on a new invention.  At certain points in the story, if there are enough aid supplies and few enough time points, Boss Bo has been able to concentrate long enough to finish a new invention to give away.  The reward will be noted in that part of the chapter.
+
+**Develoment.**  Boss Bo greets the adventurers with the following at the start:
+
+<div class='descriptive'>
+Howdy ya'll.  I'm mighty sorry all yer friends got swept away in the river, but we warned them!  The storm's ain't to be reckoned with.  It's flooding everyone out.  Never seen weather like it!  Some say it's dark magic, but whatever's going on, I gotta get home to help out.  Just heard my whole village is underwater.  Seeing as I'm the only way out of this mud hole, I thought I'd offer you a job as crewmen aboard my state of the art boat!  As soon as you can, load up the supplies from Baermor's and come get me.  Remember, time is of the essence!
+</div>
+Accepting Boss Bo's offer is non-optional.
+#### Tasha
+Tasha (NG Halfling) is a stout woman with an unwelcoming look on her face.  She's quite worried her cellar is being flooded and wishes to go check, but she also has to finish off the soup.  Immediately after the players finish talking to Boss Bo, Tasha calls out to the player characters for aid.  She hands them a recipe card supposedly received from a "strange halfling boy, obsessed with the quality of the soup."
+
+**Treasure.**  The recipe's text doesn't seem to be written in any mortal language.  Passing a DC 15 Wisdom check allows the players to make sense of the maddening glyphs.  Otherwise, any player with proficiency with cook's utensils can finsih the soup off with their own falir without consulting the recipe.  When returning to speak with Boss Bo, Tasha rewards each player with Snake Soup, an item that restores 1d4+2 hit points when consumed.  The successful cook also gets 2 gp.
+
+#### Bazoo and Janya
+Bazoo (NG Human) and Janya (CG Half-Orc) both sit covered in furs, bursting out in laughter.  You can overhear the following conversation as Bazoo hands Janya a piece of gold:
+<div class='descriptive'>
+Bazoo:  Haha, that was good!  Another!
+   
+___
+Janya:  What did the fish say when it ran into a wall? ...Dam!
+Bazoo (laughing):  Too funny!  A little something for you!
+</div>
+**Treasure.**  If the player characters can tell Bazoo a joke involving the word "fish", he will look through his pockets only to find his Lucky Penny.
+<div class='pageNumber'>5</div>
+<div class='footnote'>Chapter 1</div>
+\page
+
+> #### Bazoo's Lucky Penny
+> *Wondrous item, uncommon*
+> 
+> This copper piece seems to glisten despite having been on a dirty trapper's person for so long.  Bazoo claims it's imbued with good luck, and if the situation is right, the bearer may find themselves getting out of dangerous situations by the skin of their teeth like he has all these year.
+>
+> This penny has 3 charges.  A charge can be expended to flip the coin as a bonus action.  The player must guess heads or tails.  If their guess is the result of the coin flip (or die if no coin is handy), they receive a +2 to their next attack roll or saving throw.  The penny regains 1d3  expended charges per short rest.
+#### Aezalith
+Sitting far away from the two raucous trappers is a researcher (LG High Elf) hoping to document the ways of the Bogataw Firbolgs and discover more about the wood elf civilization that used to exist along the Snake River.  
+
+**Development.**  Aezalith is happy to share her knowledge with anyone who will listen.  She reveals the following to the players:
+* Snakeberry is considered a holy omen amongst the Bogataw Firbolg and tends to grow around areas of great importance.
+
+* There is a wood elf shrine near the Snake Bottom camp that she's searching for.
+
+* Bogataw shaman wear wreaths of snakeberry in their hair.
+
+* Bogataw Firbolg tend to avoid speaking Common and Elvish on their own indisputed territory, speaking Bogataw Giant preferrably or Bogataw Sign Language to outsiders.
+
+* She teaches the Bogataw sign for "My name is Aezalith"
+
+#### Aradiah and Emmabelle
+Two pioneers who also stayed behind from the doomed caravan, mostly due to lack of finances.  They sit looking forlorn waiting to hear more news of their companions that went ahead.
+
+**Development.**  Aradiah and Emmabelle warn of scammers along the river who board ships to help fight off enemies, then pirate the vessels they've just saved.
+### Bait Shack
+One of the few permanent structures among the Sleepy Snake camp, the shop appears more as a pile of boards rather than an actual building, but somehow it stays watertight.  The door flaps open and closed in the stormy winds.
+
+#### Tagadaw Steve
+Inside the bait shack is a man (NG Human) wearing an outfit similar to Boss Bo's.  He's occupied gathering a bunch of nets and javelins from the various barrels scattered around the shack when you come in.  Due to the noise from the flapping door, he's completely unaware from the players'entrance.
+#### Skeeter Swatting
+**Treausre.**  Tagadaw Steve was preparing to take out 2 **Giant Mosquitos** buzzing around his shack out back.  If the players offer to clear the monsters from his shack, then he provides them with two nets, 10 javelins, and a vial of acid.  If the players defeat the **Giant Mosquitoes**, Tagadaw Steve awards the players two jars of his special bait.
+> #### Tagadaw Steve's Bait
+> *Wondrous item, uncommon*
+>
+> This bait stinks of every kind of animal excrement you can imagine.  
+
+#### Inventory
+#### Frontier Supplies
+#### Snakeberry Shrine
+<div class='pageNumber'>6</div>
+<div class='footnote'>Chapter 1</div>
+ \page
+ 
+## Fangs of the Snake
+### Navigation Challenge
+#### Set Up
+#### Obstacles
+
+**Rapids**
+___
+**Boulders**
+___
+**Enemies**
+
+<div style='column-count:2'>
+| d10 | Encounter |
+|:---:|:------------|
+|  1  | Giant Mosquitoes (2)       |
+|  2  | Giant Toads (2)       |
+|  3  | Lightning Sprite, Wind Sprite        |
+|  4  | Giant Frog, Giant Flies (4)        |
+|  5  | Wind Sprite, River Sprite  |
+
+```
+```
+
+| d10 | Encounter |
+|:---:|:------------|
+|  6  | Giant Frogs (3)    |
+|  7  | Tortles (3)  |
+|  8  | River Sprites (2)     |
+|  9  | River Sprite, Lightning Sprite     |
+|  10 | Giant Mosquito, Giant Flies (2)     |
+</div>
+
+
+
+
+#### Treasure
+**Suspended Ring**
+___
+**Crashed Canoe**
+___
+**Battered Barge**
+___
+**Tortle Cave**
+
+### Clearing the Fangs
+#### Time Spent
+#### Level Advancement
+## Mud Valley
+#### Gas Fields
+#### Ominous Orbs
+#### Muddy Waters
+## Belly of the Snake
+#### Breeding Grounds
+#### Tortletopia
+#### The Corvy Cawers
+#### Boggart Hunting Party
+##  Snake Bottom
+### Snake Bottom Inn
+#### Beezoth and Merri
+#### The Gamblers
+#### Prinnipis the Trader
+#### Tanatos the Entertainer
+#### Yargul the Volunteer
+### FEMA Outpost
+#### Captain Boggs
+#### Izzig the Volunteer
+#### Bishbo the Volunteer
+#### Moeneth the Pioneer
+### Bogataw Mission
+#### Erroth the Apothecary
+#### Ulysses the Convert
+#### Ezzakel the Evangelist
+#### Inventory
+### Importer's Warehouse
+#### Farfur
+#### Inventory
+### The Frontier Fixers
+#### Steetler the Fletcher
+#### Wadlorf the Armourer
+#### Odessus the Boatwright
+#### Inventory
+#### Stuck in the Mud
+## Snake Lake
+#### Lakeshore Ambush
+#### First of the Coven
+
+<div class='pageNumber'>4</div>
+<div class='footnote'>Introduction</div>
+\page
+# Chapter 2: Confluence
+
+\page
+# Chapter 3: Swampwater
+\page
+___
+> ## River Sprite
+>*Small elemental, neutral*
+> ___
+> - **Armor Class** 10
+> - **Hit Points** 20(4d6+6)
+> - **Speed** 30ft., swim 60ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|12 (+1)|12 (+1)|9 (-1)|12 (+1)|9 (-1)|
+>___
+> - **Damage Immunities** Fire, Poison
+> - **Damage Resistance** Acid
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Aquan
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Water Form. *** While in water, this creature counts as invisible
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 5 (2d4) bludgeoning damage
+>
+> ***Jet Stream Recharge(3).***  The River Sprite violently launches a 15-ft cone of water from itself.  Creatures in this area must succeed on a DC 10 Dexterity saving throw, or take 7 (2d4+2) bludgeoning damage and be knocked prone.
+___
+> ## Wind Sprite
+>*Small elemental, neutral*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 17(5d6)
+> - **Speed** 30ft., fly 60ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|14 (+2)|9 (-1)|9 (-1)|14 (+2)|9 (-1)|
+>___
+> - **Damage Immunities** Poison
+> - **Damage Resistance** Bludgeoning, Piercing, and Slashing From Nonmagical Weapons
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Auran
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d6) slashing damage
+>
+> ***Whirlwind Recharge(3).***  The Wind Sprite violently launches slashing air from itself in a 5-foot radius.  Creatures in this area must succeed on a DC 12 Dexterity saving throw, or take 7 (2d4+2) slashing damage and is knocked 10 feet away from the Wind Sprite.
+
+\page
+___
+> ## Lightning Sprite
+>*Small elemental, neutral*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 13(2d8 + 4)
+> - **Speed** 45ft., fly 90ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|16 (+3)|10 (+0)|9 (-1)|12 (+1)|9 (-1)|
+>___
+> - **Damage Immunities** Poison, Lightning, Thunder
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Auran
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Death Burst.***  When the Lightning Sprite dies it explodes ina shower of sparks.  Each creature within 5 feet of the Lightning Sprite must succeed on a DC 13 Dexterity saving throw or take 4 (1d8) lightning damage.
+> ### Actions
+> ***Multiattack***  The Lightning Sprite makes two claw attacks
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) slashing damage
+>
+> ***Static Strike Recharge(2).***  The Lightning Sprite's claws arc with a deadly charge.  Its next melee attack does an additional 1d8 damage and has advanatage against foes in metal armor.
+
+___
+> ## Giant Mosquito
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 13 (3d8)
+> - **Speed** 10 ft., fly 50 ft., swim 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|10 (+0)|1 (-5)|10 (+0)|3 (-4)|
+>___
+> - **Senses** passive Perception 19
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ### Actions
+> ***Drain Blood.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit:* 5 (1d6 + 2).  The target must succeed on a DC 13 Strength saving throw or take 9 (2d8) poison damage and becomes grappled.  Half of the poison damage dealt in this way is returned to the Giant Mosquito as temporary hit points.
+
+```
+```
+___
+> ## Mud Elemental
+>*Large Elemental, neutral evil*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 60 (7d12+15)
+> - **Speed** 20ft., swim 40ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|8 (-1)|16 (+3)|6 (-2)|10 (+0)|3 (-4)|
+>___
+> - **Damage Immunities** Poison
+> - **Damage Resistance** Bludgeoning, Piercing, and Slashing From Nonmagical Weapons; Lightning
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10, Tremorsense 60ft.
+> - **Languages** Aquan, Terran
+> - **Challenge** 2 (450 XP)
+> ___
+> ***False Appearance.*** While the Mud Elemental remains motionless, it is indistinguishable from an ordinary mound of mud.
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:*  +5 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) bludgeoning damage.
+>
+> ***Mud Belch (Recharge 6).***  The Mud Elemental belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 13 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+\page
+___
+> ## Gas Elemental
+>*Lare Elemental, neutral*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 40 (4d12+14)
+> - **Speed** 20 ft., fly 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|12 (+1)|14 (+2)|4 (-3)|10 (+0)|4 (-3)|
+>___
+> - **Vulnerabilities** Fire
+> - **Damage Immunities** Poison
+> - **Damage Resistance** Bludgeoning, Piercing, and Slashing From Nonmagical Weapons
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Auran
+> - **Challenge** 1 (200 XP)
+> ___
+> ### Actions
+> ***Emit Gas.*** The Gas Elemental spews a sphere of colored gas from itself, filling a 20-foot-radius for 1 minute or until dispersed.  The effects non-Elemental creatures in the area suffer depends on the gas colors listed below:
+> * *Green:* Creatures must succeed on a DC 11 Constitution saving throw or fall unconscious
+> * *Yellow:*  Creatures must succeed on a DC 13 Constitution saving throw or suffer 10 (3d6) poison damage
+> * Purple: Creatures must succeed on a DC 13 Wisdom saving throw or fall prone and become incapacitated.  At the end of each of its turns, and each time it takes damage, the creature can make another Wisdom save.​<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+# Downpour
+
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### Navigate along the flooded river to find the source disrupting the elements
+</div>
+
+\page
+<div class='toc'>
+##### Table Of Contents
+- **[Introduction](#p3)**...........................................2
+  - [Adventure Background](#p3)...................2
+  - - [The Myth of Chaspayu](#p3)..............2
+  - - [The Bogataw Firbolgs](#p3)..............2
+  - - [Reclaimed by Nature](#p4)................3
+  - - [Rivergoer Life](#p4)............................3
+  - - [The Water Coven](#p4).......................3
+  - - [Elements In Flux](#p4).......................3
+  - [Running the Adventure](#p4)...................3
+  - - [Adventure Synopsis](#p7)...................
+  - - [The Loud Fairy](#p8)...........................
+  - - [Aid Supplies](#p9)................................
+  - - [The Coming Storm](#p10)....................
+  - - [Leveling Up](#p10).................................
+- **[Part 1 Snake River](#p11)**.............................
+  - [Sleepy Snake](#p11)...................................
+  - - Sleepy Snake Tavern
+  - - Steve's Bait Shop
+  - - Baermor's Frontier Supplies
+  - - Snakeberry Shrine
+  - Fangs of the Snake
+  - - Navigating the Fangs
+  - - Tortle Cave
+  - - Snagged Ring
+  - - Abandoned Canoe
+  - - Broken Barge
+  - Mud Valley
+  - - Mysterious Fog
+  - - Glowing Orbs
+  - - Natural Obstacles
+  - - Muddy Waters
+  - Belly of the Snake
+  - - The Plagues
+  - - Endangered Fisherman
+  - - Shell Shock
+  - - The Kenku Cawers
+  - - Boggart Hunting Party
+  - - Muddy Waters
+  - Snake Bottom
+  - - Snake Bottom Inn
+  - - Frontiersman's Guild
+  - - F.E.M.A. Outpost
+  - - Farfor's Imports
+  - - Armoury
+  - - Missionary's Temple
+  - - Apothecary
+  - - Boatwright
+  - Snake Lake
+  - - The First of the Coven
+  - - Bead of Binding
+- **[Part 2 Confluence](#p1)**
+  - Floodwaters
+  - - Crazy Kayaker
+  - - Engine Troubles
+  - - Drowning Drow
+  - - Turbulent Waters
+  - - Cowabunga Combat
+  - - F.E.M.A. Relief Convoy
+  - F.E.M.A. Checkpoint
+  - - F.E.M.A. Captain
+  - - Rush to Oxbow
+  - - Ambush of Elements
+  - Oxbow Port
+  - - Oxbow Inn
+  - - Fisher's Guild
+  - - Armoury
+  - - Apothecary
+  - - General Store
+  - - Clothing
+  - - Distillery
+  - - Boatwright
+  - - Exporter's
+  - Oxbow Farms
+  - - Oxbow Gardens
+  - - Goats in a Boat
+  - - Square Dance Square Off
+  - - Boggart Raid
+  - - Flooded Farms
+  - Tribal Tributary
+  - - Hidden Guides
+  - Boggart Battle Barge
+  - - Meeting the Big River Boss
+  - Swampwater Port
+  - - Swampy Stowaway
+  - - Town Tinkerer
+  - - Swamp Witch's Hut
+  - - Hunter's Klub
+  - - Bog's Eatery
+- **[Part 3 Bogataw Swamp](#p1)**
+  - Bogataw Village
+  - Boggart Bayou
+  - Green Lake
+  - Flooded Village
+  - Shadowed Swamp
+  - Gnome Grotto
+  - Hole of Horror
+</div>
+<div class='pageNumber'>1</div>
+<div class='footnote'>Table of Contents</div>
+
+\page
+# Introduction
+Strange weather is devastating the Bogataw River.  Can you navigate the flooded waters and deliver aid to the affected region?  Downpour is an adventure for 3 to 5 player characters starting at the 1st level with the adventure concluding at the 5th level.
+
+The adventure takes place in the Bogataw Delta, a non-canonical area on the frontier of the forest wilderness.  The adventure has additional rules, so read the Running the Adventure section carefully.  The adventure is highly episodic, with players moving from one area to the next without being able to go back and with forked paths, making the story's progression somewhat predictable.  Because of this, it may not be necessary to review the adventure too far in advance.
+
+## Adventure Background
+The Bogataw Delta normally serves as a quiet path to the southern edge of the frontier, where adventurers, settlers, and missionaries all seek to claim the area from the natural forces that lurk there.  In the north, wild men move up the Snake River to explore the unknown forests beyond.  Further downstream, an oxbow formed in the river allows for farmers a try at a new life.  In the south, a tributary leads to a murky swamp, where the Buggarts and Gnomebillies find charm in all the things that drive others away from the area.
+
+Rampant storms have started to flood the Bogataw Delta with increasing intensity causing devstation throughout the various settlements.  Among the threatened settlements is Gnome Grotto, home of Boss Bo, captain of the Loud Fairy and employer of the player characters.  Despite the perils of the storm and natural dangers along the river, Boss Bo seeks a crew to help him deliver aid supplies.
+
+### The Myth of Chaspayu
+The Bogataw Firbolgs tell the story of a great guardian spirit in the form of a snake named Chaspayu who protected the delta from those who would harm it.  Long ago, elves moved to the region and expand swiftly.  As they built their greatest city into what is now know as Snake Mountain, Chaspayu rose up against them, carving a path from the Bogataw River north towards the elves, destroying all in its path.  For their final stand, the elves had created magic weapons, known as the Beads of Binding.  As Chaspayu crashed down upon their city, the elves banished Chaspayu to another plane.  Although they had been wiped from the area, so too was the guardian spirit Chaspayu.  The Snake River is said to be the path Chaspayu carved, with Snake Lake the origin of his furious rampage. 
+```
+```
+### The Bogataw Firbolgs
+The Bogataw Firbolgs have inhabited the Bogataw Delta region as long as anyone can remember, so long that the area is named after their word for themselves.  They are generally peaceful, but are protective of their secrets, not speaking to outsiders, and guarding areas with awakened trees.  They are wary of the increasing expnasion of the outsiders, and fear Chaspayu's return.  The storms only reinforce their belief that the gods are angry with the settlers, and some believe the only way to save their homeland land is to drive away the outsiders.  
+
+The Bogataw Firbolgs wear wreaths of a local plant called Snakeberry, and greet each other in a ritual of respect where they bow then pick a berry from each other's wreaths.  Having grown on the river and with their large stature, the Bogataw Firbolgs are able to propel their canoes with great speed and dexterity.  Due to the other hostile inhabitants of the Bogataw Delta, the Firbolgs are also adept warriors and hunters, priding themselves most on their Giant Alligator and Dragon Turtle trophies.  To be accepted as an outsider by the Bogataw would take a feat brave enough to impress them.
+<img src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/188/250/256/c2-2.png' style='position:absolute;bottom:90px;right:-20px;width:450px' />
+<div class='pageNumber'>2</div>
+<div class='footnote'>Introduction</div>
+
+\page
+<img src='https://www.dandwiki.com/w/images/9/91/Bullywugs2.png' style='position:absolute;top:20px;right:30px;width:400px' />
+### Reclaimed By Nature
+The natural inhabitants of the Bogataw Delta seem to be the Bollywogs and Snapping Tortles which have fairly developed, if isolated societies.  They wish to drive all other races out of the Bogataw and claim it for themselves, and so they consistently perform raids on the surrounding communities.  
+
+After the elves were driven out of the Bogataw Delta, Snapping Tortles moved into the ruins and quickly prospered, much to the jealousy of the Bollywogs.  With the flooding, the Tortles and Bollywogs couldn't be happier, hoping to aid the summoning of Chaspayu in any way they can, especially targetting Firbolgs and their allies.
+
+In addition to the sentient life that occupies the Bogataw, particularly large creatures lurk in the area.  Reports of halflings drained completely dry by mosquitoes, alligators as large as boats, and toads being ridden as mounts circulate the various inns along the river.
+
+### Rivergoer Life
+Being at the forefront of the frontier, the Bogataw Delta is sparsely populated, with most of the towns existing to support the passing adventurers.  All sorts of races make it out to Bogataw for their various reasons, be it hunting, claiming new land, spreading the word of their god, or general trade, the Bogataw offers a wild life free from the large crowds one might encounter further up on Big River.
+
+In addition to the general settlers, goblins and gnomes have found a particularly cozy home in the southern swamp of the delta.  Goblins, known as Buggarts in the region, love a good hunt and cook out and are reckless to get it.  Using special machinery they race down the river in tiny boats, looting and hunting all the way.  Buggarts aren't inherently hostile, but they are opportunistic and will use violence if it seems like an easy choice.
+
+Swamp gnomes, known as Gnomebillies, are quite similar to the Buggarts of the region, and the two tend to get along, especially since Gnomebilly tinkerers supply most of the hooch and guns for the Buggarts.  Unlike the Buggarts, Gnomebilly culture emphasize hospitality, so they tend to welcome outsiders rather than take advantage of them.
+
+### The Water Coven
+The storms are no coincidence, but the work of three hags who are in the process of forming a coven.  They had learned about the Beads of Binding from a captured Bogataw shaman, and soon spread out to retrieve the powerful artifacts.  
+
+At Snake Lake awaits the weakest of the hags, who guards the captured shaman and first Bead of Binding for her sisters.  At Green Lake, the second strongest hag unleashes evil upon the farmers in a rage that the first hag has stolen one of her Beads of Binding.  Finally, the strongest of the hags resides in the coven's base, holding the final Bead of Binding.  
+
+As they see the power of the storms increasing, the more confident the power of their coven, eventually leading the three to reconcile and discover the true power of the beads.
+```
+```
+<div style='margin-top:300px'>
+  
+### Elements In Flux
+The disturbance of the Beads of Binding has caused the natural spirits to awaken to the new intrusion upon the wilderness.  Elementals run amok, mindlessly attacking all that get in their way.  In addition to the awakening of the elementals, the magic that manipulates them appears to be affected as well, with reports of casters spells fizzling out, or being extra powerful.
+
+## Running the Adventure
+This adventure assumes races and classes from the 5th edition book are being used, but should work for any homebrew additions given they are appropriately balanced.  Because the story revolves around a rushing river and Boss Bo's desire to get to Gnome Grotto, the adventure follows a fairly linear path, with few opportunities to go back to areas missed.  The synopsis below outlines the flow of the story.
+
+#### Leveling Up
+Rather than tracking experience points, players will advance at certain points in the story.  Level advancement will be noted at the point of the chapter it occurs.
+### Adventure Synopsis
+The player characters start in the camp of Sleepy Snake, having arrived there through a caravan of pioneers who cleared the mountains in the east.  The player characters are gathered at a log cabin inn seeking shelter from the storms outside when Boss BO approaches them and explains his situation.  As Boss Bo is the only way out of the camp due to the weather, the players should accept his quest for whatever reason they need.  After exploring Sleepy Snake, the players will board the Loud Fairy and head south towards the Fangs of the Snake.  After clearing the Fangs of the Snake, the player characters are faced with a fork in the river, where they must choose between the Mud Valley or Belly of the Snake.  Either choice leads to the town of Snake Bottom.
+</div>
+<div class='pageNumber'>3</div>
+<div class='footnote'>Introduction</div>
+
+\page
+
+From here players have the choice to visit the location of Snake Lake and confront the Lake Hag there.  From Snake Bottom, the characters enter the Floodwaters.  From here, players arrive at Oxbow Port.  From Oxbow Port, chracters can visit Oxbow Farms and the Green Lake, or continue on down the Bogataw River or the Tribal Tributary if they know its secret location.  
+
+Continuing on the Bogataw River leads to the village of Swampwater.  The Tribal Tributary ends in the Bogataw Village. 
+Swampwater leads directly to the Boggart Bayou, and from the Boggart Bayou and Bogataw Village, the characters have the ability to travel back and forth as well as to The Boss' Pad, which leads to Hole of Horrors where the final hag resides.  From The Boss' Pad or Bogataw Village, players can proceed to Gnome Grotto.  Finally the players will confront Chaspayu himself where he rises anew.
+
+### The Loud Fairy
+The Loud Fairy is the ultimate creation of the Tinkerer Boss Bo, a giant paddle wheel boat powered by captured steam elementals.  The boat requires a pilot as well as the engine lever to stay in the on position.  
+
+The paddle wheel is a dangerous construct and any creature knocked into it suffers 8d8 bludgeoning damage and is knocked off the ship.  
+
+The ship itself is quite sturdy, and barring extraordinary circumstances can survive most beatings the river has to offer.
+### Aid Supplies
+Boss Bo's journey relies on delivering enough aid supplies to Gnome Grotto to help.  He will refuse to advance if there are not enough aid supplies, represented in **supply points**, and will require the players loan him money so he can purchase more at 5 gp per **supply point**
+
+Although the Loud Fairy itself can take a beating, it is still a rickety ship, and supplies tend to get thrown overboard.  Players should be careful when navigating otherwise the journey can get rather expensive!
+### The Coming Storm
+Boss Bo is in a hurry to deliver aid before the next storm hits, but there's only so much time to sail in the flooded waters.  Certain events have a **time point** listed with them.  At certain parts of the chapters, it will be noted that attempted and completed events with **time points** should have their number tallied, then certain effects occur depending on the number of points accrued.
+>The number of **time points** does not reset.  Dungeon Masters should track this number throughout the campaign to appropriately assign consequences.
+<div style='margin-top:0px'>
+<img 
+  src='https://i.imgur.com/92r3Q4e.png' 
+  style='width:325px'>
+</div>
+
+
+
+
+<img 
+  src='http://www.mainlesson.com/books/eggleston/first/zpage142a.gif' 
+  style='width:325px' />
+<div class='pageNumber'>4</div>
+<div class='footnote'>Introduction</div>
+\page
+
+# Chapter 1: Snake River
+Snake River flows from the unexplored west, and meets the Bogataw River in the south at Snake Bottom.  Normally only nimble explorers who can navigate the deadly rapids known as the Fangs of the Snake travel upriver, but recently a caravan company has discovered a pass through the mountains, bringing new waves of pioneers to the normally quiet camp of Sleepy Snake, which lies just beyond the Fangs.  The player characters have come in the latest wave, but have heard that they cannot continue forward, as the flooding wiped out the caravan as the attempted to continue upriver and the cannot go back due to mudslides. 
+
+The adventure starts with all the players gathered before Boss Bo at the Sleepy Snake Inn, a quickly assembled log cabin with a single long table, a small iron stove behind a counter, and several cots in the back.
+
+
+Boss Bo begins the adventure by giving a monologue detailed below.
+
+
+**Caravan Payment.**  Pioneers spend their life savings to get a spot in the caravans going west.  Player characters start with 50 gp less than normal, even if bankrupts them.
+
+## Snake Bottom
+Snake Bottom is a small camp northwest of the Fangs of the Snake.  A few vendors have set up permanent locations, but otherwise the population is transient.  Apart from the buildings alongside the riverside, the forest dominates the landscape.  Hidden amongst the trees is an ancient wood elf shrine who can be found by following the path of a local plant called Snakeberries.  Apart from a few canoes and a kayak, a paddelwheel barge sits alongside the rickety wooden pier.
+### Snake Bottom Inn
+The Snake Bottom Inn is a large, longhouse-style cabin.  On one side are a series of small cots, on the other a long wooden table where all the guests sit.  In the corner is wooden counter with a small iron stove behind it.  Next to the stove are various crates and barrels filled with grog and various foodstuffs.  The rain is getting bad enough that water drips from certain parts of the ceiling, making the straw floor smell damp.
+
+#### Boss Bo
+Boss Bo (NG Gnomebilly) kicks off the adventure with a monologue about hit home of Gnome Grotto, a tiny village built in the murky depths of the Bogataw Swamp.  As captain of the Loud Fairy, he's traveled up and down all regions of the Bogataw Delta many a time, and with his "patented paddlewheel technology (patent pending)", he can usually move upstream, making him a cherished resource for those in the Sleepy Snake camp.  He's fairly good-spirited due to his moonshine intake, but quick to anger.  Boss Bo appears to only wear a straw hat and overalls, yet he manages to carry many a useful item on his person.
+```
+```
+**Treasure.**  Boss Bo loves to tinker and is constantly working on a new invention.  At certain points in the story, if there are enough aid supplies and few enough time points, Boss Bo has been able to concentrate long enough to finish a new invention to give away.  The reward will be noted in that part of the chapter.
+
+**Develoment.**  Boss Bo greets the adventurers with the following at the start:
+
+<div class='descriptive'>
+Howdy ya'll.  I'm mighty sorry all yer friends got swept away in the river, but we warned them!  The storm's ain't to be reckoned with.  It's flooding everyone out.  Never seen weather like it!  Some say it's dark magic, but whatever's going on, I gotta get home to help out.  Just heard my whole village is underwater.  Seeing as I'm the only way out of this mud hole, I thought I'd offer you a job as crewmen aboard my state of the art boat!  As soon as you can, load up the supplies from Baermor's and come get me.  Remember, time is of the essence!
+</div>
+Accepting Boss Bo's offer is non-optional.
+#### Tasha
+Tasha (NG Halfling) is a stout woman with an unwelcoming look on her face.  She's quite worried her cellar is being flooded and wishes to go check, but she also has to finish off the soup.  Immediately after the players finish talking to Boss Bo, Tasha calls out to the player characters for aid.  She hands them a recipe card supposedly received from a "strange halfling boy, obsessed with the quality of the soup."
+
+**Treasure.**  The recipe's text doesn't seem to be written in any mortal language.  Passing a DC 15 Wisdom check allows the players to make sense of the maddening glyphs.  Otherwise, any player with proficiency with cook's utensils can finsih the soup off with their own falir without consulting the recipe.  When returning to speak with Boss Bo, Tasha rewards each player with Snake Soup, an item that restores 1d4+2 hit points when consumed.  The successful cook also gets 2 gp.
+
+#### Bazoo and Janya
+Bazoo (NG Human) and Janya (CG Half-Orc) both sit covered in furs, bursting out in laughter.  You can overhear the following conversation as Bazoo hands Janya a piece of gold:
+<div class='descriptive'>
+Bazoo:  Haha, that was good!  Another!
+   
+___
+Janya:  What did the fish say when it ran into a wall? ...Dam!
+Bazoo (laughing):  Too funny!  A little something for you!
+</div>
+**Treasure.**  If the player characters can tell Bazoo a joke involving the word "fish", he will look through his pockets only to find his Lucky Penny.
+<div class='pageNumber'>5</div>
+<div class='footnote'>Chapter 1</div>
+\page
+
+> #### Bazoo's Lucky Penny
+> *Wondrous item, uncommon*
+> 
+> This copper piece seems to glisten despite having been on a dirty trapper's person for so long.  Bazoo claims it's imbued with good luck, and if the situation is right, the bearer may find themselves getting out of dangerous situations by the skin of their teeth like he has all these year.
+>
+> This penny has 3 charges.  A charge can be expended to flip the coin as a bonus action.  The player must guess heads or tails.  If their guess is the result of the coin flip (or die if no coin is handy), they receive a +2 to their next attack roll or saving throw.  The penny regains 1d3  expended charges per short rest.
+#### Aezalith
+Sitting far away from the two raucous trappers is a researcher (LG High Elf) hoping to document the ways of the Bogataw Firbolgs and discover more about the wood elf civilization that used to exist along the Snake River.  
+
+**Development.**  Aezalith is happy to share her knowledge with anyone who will listen.  She reveals the following to the players:
+* Snakeberry is considered a holy omen amongst the Bogataw Firbolg and tends to grow around areas of great importance.
+
+* There is a wood elf shrine near the Snake Bottom camp that she's searching for.
+
+* Bogataw shaman wear wreaths of snakeberry in their hair.
+
+* Bogataw Firbolg tend to avoid speaking Common and Elvish on their own indisputed territory, speaking Bogataw Giant preferrably or Bogataw Sign Language to outsiders.
+
+* She teaches the Bogataw sign for "My name is Aezalith"
+
+#### Aradiah and Emmabelle
+Two pioneers who also stayed behind from the doomed caravan, mostly due to lack of finances.  They sit looking forlorn waiting to hear more news of their companions that went ahead.
+
+**Development.**  Aradiah and Emmabelle warn of scammers along the river who board ships to help fight off enemies, then pirate the vessels they've just saved.
+### Bait Shack
+One of the few permanent structures among the Sleepy Snake camp, the shop appears more as a pile of boards rather than an actual building, but somehow it stays watertight.  The door flaps open and closed in the stormy winds.
+
+#### Tagadaw Steve
+Inside the bait shack is a man (NG Human) wearing an outfit similar to Boss Bo's.  He's occupied gathering a bunch of nets and javelins from the various barrels scattered around the shack when you come in.  Due to the noise from the flapping door, he's completely unaware from the players'entrance.
+#### Skeeter Swatting
+**Treausre.**  Tagadaw Steve was preparing to take out 2 **Giant Mosquitos** buzzing around his shack out back.  If the players offer to clear the monsters from his shack, then he provides them with two nets, 10 javelins, and a vial of acid.  If the players defeat the **Giant Mosquitoes**, Tagadaw Steve awards the players two jars of his special bait.
+> #### Tagadaw Steve's Bait
+> *Wondrous item, uncommon*
+>
+> This bait stinks of every kind of animal excrement you can imagine.  
+
+#### Inventory
+#### Frontier Supplies
+#### Snakeberry Shrine
+<div class='pageNumber'>6</div>
+<div class='footnote'>Chapter 1</div>
+ \page
+ 
+## Fangs of the Snake
+### Navigation Challenge
+#### Set Up
+#### Obstacles
+
+**Rapids**
+___
+**Boulders**
+___
+**Enemies**
+
+<div style='column-count:2'>
+| d10 | Encounter |
+|:---:|:------------|
+|  1  | Giant Mosquitoes (2)       |
+|  2  | Giant Toads (2)       |
+|  3  | Lightning Sprite, Wind Sprite        |
+|  4  | Giant Frog, Giant Flies (4)        |
+|  5  | Wind Sprite, River Sprite  |
+
+```
+```
+
+| d10 | Encounter |
+|:---:|:------------|
+|  6  | Giant Frogs (3)    |
+|  7  | Tortles (3)  |
+|  8  | River Sprites (2)     |
+|  9  | River Sprite, Lightning Sprite     |
+|  10 | Giant Mosquito, Giant Flies (2)     |
+</div>
+
+
+
+
+#### Treasure
+**Suspended Ring**
+___
+**Crashed Canoe**
+___
+**Battered Barge**
+___
+**Tortle Cave**
+
+### Clearing the Fangs
+#### Time Spent
+#### Level Advancement
+## Mud Valley
+#### Gas Fields
+#### Ominous Orbs
+#### Muddy Waters
+## Belly of the Snake
+#### Breeding Grounds
+#### Tortletopia
+#### The Corvy Cawers
+#### Boggart Hunting Party
+##  Snake Bottom
+### Snake Bottom Inn
+#### Beezoth and Merri
+#### The Gamblers
+#### Prinnipis the Trader
+#### Tanatos the Entertainer
+#### Yargul the Volunteer
+### FEMA Outpost
+#### Captain Boggs
+#### Izzig the Volunteer
+#### Bishbo the Volunteer
+#### Moeneth the Pioneer
+### Bogataw Mission
+#### Erroth the Apothecary
+#### Ulysses the Convert
+#### Ezzakel the Evangelist
+#### Inventory
+### Importer's Warehouse
+#### Farfur
+#### Inventory
+### The Frontier Fixers
+#### Steetler the Fletcher
+#### Wadlorf the Armourer
+#### Odessus the Boatwright
+#### Inventory
+#### Stuck in the Mud
+## Snake Lake
+#### Lakeshore Ambush
+#### First of the Coven
+
+<div class='pageNumber'>4</div>
+<div class='footnote'>Introduction</div>
+\page
+# Chapter 2: Confluence
+
+\page
+# Chapter 3: Swampwater
+\page
+___
+> ## River Sprite
+>*Small elemental, neutral*
+> ___
+> - **Armor Class** 10
+> - **Hit Points** 20(4d6+6)
+> - **Speed** 30ft., swim 60ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|12 (+1)|12 (+1)|9 (-1)|12 (+1)|9 (-1)|
+>___
+> - **Damage Immunities** Fire, Poison
+> - **Damage Resistance** Acid
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Aquan
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Water Form. *** While in water, this creature counts as invisible
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 5 (2d4) bludgeoning damage
+>
+> ***Jet Stream Recharge(3).***  The River Sprite violently launches a 15-ft cone of water from itself.  Creatures in this area must succeed on a DC 10 Dexterity saving throw, or take 7 (2d4+2) bludgeoning damage and be knocked prone.
+___
+> ## Wind Sprite
+>*Small elemental, neutral*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 17(5d6)
+> - **Speed** 30ft., fly 60ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|14 (+2)|9 (-1)|9 (-1)|14 (+2)|9 (-1)|
+>___
+> - **Damage Immunities** Poison
+> - **Damage Resistance** Bludgeoning, Piercing, and Slashing From Nonmagical Weapons
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Auran
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d6) slashing damage
+>
+> ***Whirlwind Recharge(3).***  The Wind Sprite violently launches slashing air from itself in a 5-foot radius.  Creatures in this area must succeed on a DC 12 Dexterity saving throw, or take 7 (2d4+2) slashing damage and is knocked 10 feet away from the Wind Sprite.
+
+\page
+___
+> ## Lightning Sprite
+>*Small elemental, neutral*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 13(2d8 + 4)
+> - **Speed** 45ft., fly 90ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|16 (+3)|10 (+0)|9 (-1)|12 (+1)|9 (-1)|
+>___
+> - **Damage Immunities** Poison, Lightning, Thunder
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Auran
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ***Death Burst.***  When the Lightning Sprite dies it explodes ina shower of sparks.  Each creature within 5 feet of the Lightning Sprite must succeed on a DC 13 Dexterity saving throw or take 4 (1d8) lightning damage.
+> ### Actions
+> ***Multiattack***  The Lightning Sprite makes two claw attacks
+> ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) slashing damage
+>
+> ***Static Strike Recharge(2).***  The Lightning Sprite's claws arc with a deadly charge.  Its next melee attack does an additional 1d8 damage and has advanatage against foes in metal armor.
+
+___
+> ## Giant Mosquito
+>*Medium beast, unaligned*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 13 (3d8)
+> - **Speed** 10 ft., fly 50 ft., swim 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|10 (+0)|1 (-5)|10 (+0)|3 (-4)|
+>___
+> - **Senses** passive Perception 19
+> - **Challenge** 1/2 (100 XP)
+> ___
+> ### Actions
+> ***Drain Blood.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit:* 5 (1d6 + 2).  The target must succeed on a DC 13 Strength saving throw or take 9 (2d8) poison damage and becomes grappled.  Half of the poison damage dealt in this way is returned to the Giant Mosquito as temporary hit points.
+
+```
+```
+___
+> ## Mud Elemental
+>*Large Elemental, neutral evil*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 60 (7d12+15)
+> - **Speed** 20ft., swim 40ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|8 (-1)|16 (+3)|6 (-2)|10 (+0)|3 (-4)|
+>___
+> - **Damage Immunities** Poison
+> - **Damage Resistance** Bludgeoning, Piercing, and Slashing From Nonmagical Weapons; Lightning
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10, Tremorsense 60ft.
+> - **Languages** Aquan, Terran
+> - **Challenge** 2 (450 XP)
+> ___
+> ***False Appearance.*** While the Mud Elemental remains motionless, it is indistinguishable from an ordinary mound of mud.
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:*  +5 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) bludgeoning damage.
+>
+> ***Mud Belch (Recharge 6).***  The Mud Elemental belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 13 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+\page
+___
+> ## Gas Elemental
+>*Lare Elemental, neutral*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 40 (4d12+14)
+> - **Speed** 20 ft., fly 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|12 (+1)|14 (+2)|4 (-3)|10 (+0)|4 (-3)|
+>___
+> - **Vulnerabilities** Fire
+> - **Damage Immunities** Poison
+> - **Damage Resistance** Bludgeoning, Piercing, and Slashing From Nonmagical Weapons
+> - **Condition Immunities** Poisoned
+> - **Senses** passive Perception 10
+> - **Languages** Auran
+> - **Challenge** 1 (200 XP)
+> ___
+> ### Actions
+> ***Emit Gas.*** The Gas Elemental spews a sphere of colored gas from itself, filling a 20-foot-radius for 1 minute or until dispersed.  The effects non-Elemental creatures in the area suffer depends on the gas colors listed below:
+> * *Green:* Creatures must succeed on a DC 11 Constitution saving throw or fall unconscious
+> * *Yellow:*  Creatures must succeed on a DC 13 Constitution saving throw or suffer 10 (3d6) poison damage
+> * Purple: Creatures must succeed on a DC 13 Wisdom saving throw or fall prone and become incapacitated.  At the end of each of its turns, and each time it takes damage, the creature can make another Wisdom save.
+> * White: Creatures in the area are heavily obscured.
+> * Black: Creatures must succeed on a DC 11 Wisdom saving throw or suffer one of the following effects at the beginning of each of its turns:
+>
+>| d10 | Behavior |
+|:---:|:-------------|
+| 1  | The creature runs in a random direction.  Use a d8 to determine direction.  The creature takes no other actions this turn |
+| 2-6  | The creature doesn't move or take an action this turn |
+| 7-9 | The creature attempts to attack a random creature within its reach.  If there is no creature within reach, it does nothing this turn|
+| 10 | The creature can act and move as normal|
+> At the end of each of its turns, and each time it takes damage, the creature can make another Wisdom save.
+
+___
+> ## Giant Fly
+>*Medium beat, unaligned*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 13(3d8)
+> - **Speed** 10ft., fly 60ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|16 (+3)|12 (+1)|1 (-5)|6 (-2)|2 (-4)|
+>___
+> - **Senses** passive Perception 10
+> - **Challenge** 1/8 (25 XP)
+> ___
+> ### Actions
+> ***Latch On.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage. The target is grappled (escape DC 10) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> * White: Creatures in the area are heavily obscured.
+> * Black: Creatures must succeed on a DC 11 Wisdom saving throw or suffer one of the following effects at the beginning of each of its turns:
+>
+>| d10 | Behavior |
+|:---:|:-------------|
+| 1  | The creature runs in a random direction.  Use a d8 to determine direction.  The creature takes no other actions this turn |
+| 2-6  | The creature doesn't move or take an action this turn |
+| 7-9 | The creature attempts to attack a random creature within its reach.  If there is no creature within reach, it does nothing this turn|
+| 10 | The creature can act and move as normal|
+> At the end of each of its turns, and each time it takes damage, the creature can make another Wisdom save.
+
+___
+> ## Giant Fly
+>*Medium beat, unaligned*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 13(3d8)
+> - **Speed** 10ft., fly 60ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|16 (+3)|12 (+1)|1 (-5)|6 (-2)|2 (-4)|
+>___
+> - **Senses** passive Perception 10
+> - **Challenge** 1/8 (25 XP)
+> ___
+> ### Actions
+> ***Latch On.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage. The target is grappled (escape DC 10) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
