@@ -1,5 +1,3 @@
-Link: https://homebrewery.naturalcrit.com/edit/HyEq3usVkV
-
 <style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
@@ -133,7 +131,7 @@ The Bogataw Firbolgs tell the story of a great guardian spirit in the form of a 
 ### The Bogataw Firbolgs
 The Bogataw Firbolgs have inhabited the Bogataw Delta region as long as anyone can remember, so long that the area is named after their word for themselves.  They are generally peaceful, but are protective of their secrets, not speaking to outsiders, and guarding areas with awakened trees.  They are wary of the increasing expnasion of the outsiders, and fear Chaspayu's return.  The storms only reinforce their belief that the gods are angry with the settlers, and some believe the only way to save their homeland land is to drive away the outsiders.  
 
-The Bogataw Firbolgs wear wreaths of a local plant called Snakeberry, and greet each other in a ritual of respect where they bow then pick a berry from each other's wreaths.  Having grown on the river and with their large stature, the Bogataw Firbolgs are able to propel their canoes with great speed and dexterity.  Due to the other hostile inhabitants of the Bogataw Delta, the Firbolgs are also adept warriors and hunters, priding themselves most on their Giant Alligator and Dragon Turtle trophies.  To be accepted as an outsider by the Bogataw would take a feat brave enough to impress them.
+The Bogataw Firbolg Shamans wear wreaths of a local plant called Snakeberry, and greet each other in a ritual of respect where they bow then pick a berry from each other's wreaths.  Having grown on the river and with their large stature, the Bogataw Firbolgs are able to propel their canoes with great speed and dexterity.  Due to the other hostile inhabitants of the Bogataw Delta, the Firbolgs are also adept warriors and hunters, priding themselves most on their Giant Alligator and Dragon Turtle trophies.  To be accepted as an outsider by the Bogataw would take a feat brave enough to impress them.
 <img src='https://media-waterdeep.cursecdn.com/attachments/thumbnails/4/188/250/256/c2-2.png' style='position:absolute;bottom:90px;right:-20px;width:450px' />
 <div class='pageNumber'>2</div>
 <div class='footnote'>Introduction</div>
@@ -279,43 +277,99 @@ Sitting far away from the two raucous trappers is a researcher (LG High Elf) hop
 
 * Bogataw Firbolg tend to avoid speaking Common and Elvish on their own indisputed territory, speaking Bogataw Giant preferrably or Bogataw Sign Language to outsiders.
 
-* She teaches the Bogataw sign for "My name is Aezalith"
+* She teaches the Bogataw sign for "friend."
 
 #### Aradiah and Emmabelle
-Two pioneers who also stayed behind from the doomed caravan, mostly due to lack of finances.  They sit looking forlorn waiting to hear more news of their companions that went ahead.
+Two pioneers (LG Halflings) who also stayed behind from the doomed caravan, mostly due to lack of finances.  They sit looking forlorn waiting to hear more news of their companions that went ahead.
 
 **Development.**  Aradiah and Emmabelle warn of scammers along the river who board ships to help fight off enemies, then pirate the vessels they've just saved.
+
+<img 
+  src='https://i.imgur.com/d3y1xtk.png' 
+   style='width:325px; margin-left:-30px; margin-top: 30px; border-radius: 50%'/>
+```
+```
+
+
 ### Bait Shack
 One of the few permanent structures among the Sleepy Snake camp, the shop appears more as a pile of boards rather than an actual building, but somehow it stays watertight.  The door flaps open and closed in the stormy winds.
 
 #### Tagadaw Steve
 Inside the bait shack is a man (NG Human) wearing an outfit similar to Boss Bo's.  He's occupied gathering a bunch of nets and javelins from the various barrels scattered around the shack when you come in.  Due to the noise from the flapping door, he's completely unaware from the players'entrance.
 #### Skeeter Swatting
-**Treausre.**  Tagadaw Steve was preparing to take out 2 **Giant Mosquitos** buzzing around his shack out back.  If the players offer to clear the monsters from his shack, then he provides them with two nets, 10 javelins, and a vial of acid.  If the players defeat the **Giant Mosquitoes**, Tagadaw Steve awards the players two jars of his special bait.
+**Treausre.**  Tagadaw Steve was preparing to take out 2 **Giant Mosquitos** buzzing around his shack out back.  If the players offer to clear the monsters from his shack, then he provides them with two nets, 10 javelins, and a vial of acid.  If the players defeat the **Giant Mosquitoes**, Tagadaw Steve awards the players two jars of his special bait.  This adds **1 time point**.  
+
+He also tells you the following joke.
+<div class='descriptive' style='margin-bottom: 50px'>
+Why did the fisherman cross the road?  Just for the halibut!
+</div>
+
 > #### Tagadaw Steve's Bait
 > *Wondrous item, uncommon*
 >
-> This bait stinks of every kind of animal excrement you can imagine.  
+> This jar is filled with an oily substance that stinks of every kind of animal excrement one can imagine.  Despite its gross nature, fishermen down the river are always eager to get their hands on it due to its effectiveness.
+>
+> The jar contains enough bait for 3 uses.  
+Players can use an action to smear the bait on anything within 5 ft. or throw a ball of it as an improvised weapon.  River creatures within a 30-foot radius must pass a DC 17 Wisdom saving throw or be compelled to head directly towards the bait and consume it if able.  While under the effect of the bait, creatures have disadvantage on saving throws, and attacks against it have advantage.
 
 #### Inventory
-#### Frontier Supplies
-#### Snakeberry Shrine
+Tagadaw Steve has the following items for sell:
+
+| Item | Cost |
+|:----:|:-------------|
+| Acid (vial) | 20 gp |
+| Javelin | 1 gp |
+| Bucket | 1 sp |
+| Net | 1 gp |
+| Pro Fishing Tackle | 3 gp |
+| Steve's Bait (jar) | 30 gp |
+| Rope, hempen (50 feet) | 1 gp |
+
 <div class='pageNumber'>6</div>
 <div class='footnote'>Chapter 1</div>
  \page
- 
-## Fangs of the Snake
-### Navigation Challenge
-#### Set Up
-#### Obstacles
+### Frontier Supplies Shop
+At the edge of the port lies the last permanent structure of the Sleepy Snake campsite.  This cabin-like structure is much better built than the other two and even has a sign with bright yellow lettering which reads "Frontier Supplies."
+#### Baermor
+Inside the Frontier Supplies shop, an older man (LG Dwarf) is occupied marking a clipboard with counts of crates stacked before him.  As the players enter, he simply glances to the side as he keeps counting.
+<div class='descriptive'>
+...sixty-two nets, eighty-nine rolls of bandages, two-hundred-odd rations, hundred-and-four candles, ninety-two tindersboxes...Oh a Frontier Supplies hello to you.  Unfortunately I am completely out of stock, but if you'd like to place an order...
+</div>
+#### Swampy Cellar
+Once the players establish thy're working for Boss Bo, Baermor directs them to load the rest of the crates in the flooded cellar below.  He warns he's heard a mean croaking, and has been too scared to go by himself lest he be eaten whole.  A series of rickety steps behind the counter leads to a small opening below the floorboards of the main shop and water sits up to the ankle.  Almost no light enters the cellar, enough to make out several crates scattered around the cellar.
 
+---
+**Treasure.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+
+### Snakeberry Shrine
+#### Snakeberry Trail
+#### Shrine Carvings
+#### Agakwa
+\page
+## Fangs of the Snake
+a
+### Navigation Challenge
+a
+#### Set Up
+a
+#### Obstacle
+a
+
+---
 **Rapids**
-___
+a
+
+---
 **Boulders**
-___
+a
+
+---
 **Enemies**
+a
 
 <div style='column-count:2'>
+  
 | d10 | Encounter |
 |:---:|:------------|
 |  1  | Giant Mosquitoes (2)       |
@@ -341,12 +395,16 @@ ___
 
 #### Treasure
 **Suspended Ring**
+A
 ___
 **Crashed Canoe**
+B
 ___
 **Battered Barge**
+C
 ___
 **Tortle Cave**
+D
 
 ### Clearing the Fangs
 #### Time Spent
