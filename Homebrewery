@@ -137,7 +137,7 @@ The Bogataw Firbolg Shamans wear wreaths of a local plant called Snakeberry, and
 <div class='footnote'>Introduction</div>
 
 \page
-<img src='https://www.dandwiki.com/w/images/9/91/Bullywugs2.png' style='position:absolute;top:400px;right:30px;width:400px' />
+<img src='https://www.dandwiki.com/w/images/9/91/Bullywugs2.png' style='position:absolute;top:100px;right:30px;width:400px' />
 ### Reclaimed By Nature
 The natural inhabitants of the Bogataw Delta seem to be the Bollywogs and Snapping Tortles which have fairly developed, if isolated societies.  They wish to drive all other races out of the Bogataw and claim it for themselves, and so they consistently perform raids on the surrounding communities.  
 
@@ -153,9 +153,6 @@ In addition to the general settlers, goblins, gnomes and gatormen have found a p
 Swamp gnomes, known as Gnomebillies, are quite similar to the Buggarts of the region, and the two tend to get along, especially since Gnomebilly tinkerers supply most of the hooch and guns for the Buggarts.  Unlike the Buggarts, Gnomebilly culture emphasize hospitality, so they tend to welcome outsiders rather than take advantage of them.
 
 Gatormen feel right at home in the swampy water of the Bogataw Delta, leading them to be natural navigators.  Living in hidden shacks or mobile houseboats, gatormen mingle with the general population to make a quick buck as guides or pirates, whichever happens to take less energy at the time. 
-```
-```
-
 
 ### The Water Coven
 The storms are no coincidence, but the work of three hags who are in the process of forming a coven.  They had learned about the Beads of Binding from a captured Bogataw shaman, and soon spread out to retrieve the powerful artifacts.  
@@ -163,8 +160,7 @@ The storms are no coincidence, but the work of three hags who are in the process
 At Snake Lake awaits the weakest of the hags, who guards the captured shaman and first Bead of Binding for her sisters.  At Green Lake, the second strongest hag unleashes evil upon the farmers in a rage that the first hag has stolen one of her Beads of Binding.  Finally, the strongest of the hags resides in the coven's base, holding the final Bead of Binding.  
 
 As they see the power of the storms increasing, the more confident the power of their coven, eventually leading the three to reconcile and discover the true power of the beads.
-```
-```
+
 <div style='margin-top:300px'>
   
 ### Elements In Flux
@@ -199,7 +195,7 @@ Boss Bo's journey relies on delivering enough aid supplies to Gnome Grotto to he
 
 Although the Loud Fairy itself can take a beating, it is still a rickety ship, and supplies tend to get thrown overboard.  Players should be careful when navigating otherwise the journey can get rather expensive!
 ### The Coming Storm
-Boss Bo is in a hurry to deliver aid before the next storm hits, but there's only so much time to sail in the flooded waters.  Certain events have a **time point** listed with them.  At certain parts of the chapters, it will be noted that attempted and completed events with **time points** should have their number tallied, then certain effects occur depending on the number of points accrued.  These effects will be noted in the chapters when they occur.
+Boss Bo is in a hurry to deliver aid before the next storm hits, but there's only so much time to sail in the flooded waters.  Certain events have a **time point** listed with them.  At certain parts of the chapters, it will be noted that attempted and completed events with **time points** should have their number tallied, then certain effects occur depending on the number of points accrued.  These effects will be noted in the chapters when they occur.  Short rests will add **1 time point** and long rests will add **3 time points**.
 ```
 ```
 
@@ -358,6 +354,10 @@ Baemor has packed away everything worth selling into the various crates.
 
 ### Snakeberry Shrine
 Hidden amongst the trees, this shrine is impossible to find except for the Bogataw Shaman and the most well-versed ethnologists.  The only clue to its location is a patch of bushes covered in Snakeberries at the far edge of the Sleepy Snake camp.  The shrine was abandoned long ago, containing lost secrets of the old Wood Elf civilization that lived there before.
+```
+```
+
+
 #### Snakeberry Trail
 By following one Snakeberry patch to the next, the adventurers can find the shrine.  To notice the patch in the first place, the players must have talked to Aezalith about the shrine or pass a DC 18 Nature check or DC 21 Perception check.  Once the patch is discovered, a further DC 11 Nature check or DC 14 Perception check will reveal the whole trail.  If any adventurer attempts to pick the berries once on the trail, the bushes reveal themselves to be **Awakened Shrubs** and at least 6 will attack. Following the trail takes **1 time point**, fighting the angered forest takes **2 time points**.
 #### Shrine Carvings
@@ -368,8 +368,9 @@ The Firbolg at the shrine is a shaman known as Agakwah.  He is on a mission to d
 ### Leaving Sleepy Snake
 After the adventurers have finished their work in the twon, they must return to Boss Bo to confirm all the supplies are packed.  The adventurers will board the Loud Fairy with Boss Bo at the wheel, and set off.  The players can pretty much occupy an area on the boat they please, but they must stay on the boat, as the Loud Fairy is moving too fast, and the waters are too turbulent for any swimmer to keep up naturally.
 #### Blinding Ambush
-A loud croaking can be heard around the Loud Fairy.  If the adventurers can pass a DC 15 Perception check, the relative location of the croaks can be found, allowing the adventurers to repositions before 3 **Giant Frogs** board the ship.  While the adventurers are distracted a sneaky tortle has made its way onto the Loud Fairy and is sneaking up to attack Boss Bo.  A DC 18 Percetion check reveals the tortle, and upon his defeat he smashes a bottle filled with a green smoke that blinds Boss Bo and anyone else within a 15-foot radius if they fail a DC 11 Constitution saving throw.  Because Boss Bo cannot see, he asks the crew to temporarily appoint a new pilot until the poison wears off.  The adventurers must choose someone to sit at the wheel for the next part of the journey.
+A loud croaking can be heard around the Loud Fairy.  If the adventurers can pass a DC 15 Perception check, the relative location of the croaks can be found, allowing the adventurers to repositions before 3 **Giant Frogs** board the ship.  While the adventurers are distracted a sneaky tortle has made its way onto the Loud Fairy and is sneaking up to attack Boss Bo.  A DC 18 Percetion check reveals the tortle, and upon his defeat he smashes a bottle filled with a green smoke that blinds Boss Bo.  Because Boss Bo cannot see, he asks the crew to temporarily appoint a new pilot until the poison wears off.  The adventurers must choose someone to sit at the wheel for the next part of the journey.
 #### Level Advancement
+The players advance to the 2nd level and may take a short rest before entering the Fangs of the Snake.
 \page
 ## Fangs of the Snake
 a
