@@ -264,6 +264,7 @@ Bazoo (laughing):  Too funny!  A little something for you!
 <div class='footnote'>Chapter 1</div>
 \page
 
+____
 > #### Bazoo's Lucky Penny
 > *Wondrous item, uncommon*
 > 
@@ -292,9 +293,6 @@ Two pioneers (LG Halflings) who also stayed behind from the doomed caravan, most
 <img 
   src='https://i.imgur.com/d3y1xtk.png' 
    style='width:325px; margin-left:-30px; margin-top: 30px; border-radius: 50%'/>
-```
-```
-
 
 ### Bait Shack
 One of the few permanent structures among the Sleepy Snake camp, the shop appears more as a pile of boards rather than an actual building, but somehow it stays watertight.  The door flaps open and closed in the stormy winds.
@@ -309,6 +307,7 @@ He also tells you the following joke.
 Why did the fisherman cross the road?  Just for the halibut!
 </div>
 
+___
 > #### Tagadaw Steve's Bait
 > *Wondrous item, uncommon*
 >
@@ -317,6 +316,7 @@ Why did the fisherman cross the road?  Just for the halibut!
 > The jar contains enough bait for 3 uses.  
 Players can use an action to smear the bait on anything within 5 ft. or throw a ball of it as an improvised weapon.  River creatures within a 30-foot radius must pass a DC 15 Wisdom saving throw or be compelled to head directly towards the bait and consume it if able.  While under the effect of the bait, creatures have disadvantage on saving throws, and attacks against it have advantage.
 
+\page
 #### Inventory
 Tagadaw Steve has the following items for sell:
 
@@ -332,7 +332,6 @@ Tagadaw Steve has the following items for sell:
 
 <div class='pageNumber'>6</div>
 <div class='footnote'>Chapter 1</div>
- \page
 ### Frontier Supplies Shop
 At the edge of the port lies the last permanent structure of the Sleepy Snake campsite.  This cabin-like structure is much better built than the other two and even has a sign with bright yellow lettering which reads "Frontier Supplies."
 #### Baermor
@@ -347,23 +346,37 @@ Baermor isn't just helping Boss Bo out of friendship.  His son Falfor was on a t
 Once the players establish thy're working for Boss Bo, Baermor directs them to load the rest of the crates in the flooded cellar below.  He warns he's heard a mean croaking, and has been too scared to go by himself lest he be eaten whole.  A series of rickety steps behind the counter leads to a small opening below the floorboards of the main shop where water sits up to the ankle.  Almost no light enters the cellar, just enough to make out several crates scattered around the cellar.
 
 ---
-**Treasure.**  Hiding in the corner is a **Giant Frog**.  After dispatching of the beast, the adventurers can begin to load the crates onto the boat by passing a collective DC 60 Strength check.  Failing the check causes one of the adventurers to drop their crate, revealing a suit of **Animated Armor** which attacks the players unless soothed by music; this adds **1 time point**.  If the armor is destroyed, it drops its helmet.  If the armor is soothed, it will follow the musician, who can use an action to play a song and make the armor take an action.  Once the crates are delivered or the armor is taken care of, Baermor gives each player 1 sp.  
+**Treasure.**  Hiding in the corner is a **Giant Frog**.  After dispatching of the beast, the adventurers can begin to load the crates onto the boat by passing a collective DC 60 Strength check.  Failing the check causes one of the adventurers to drop their crate, revealing a suit of **Animated Armor** which attacks the players unless soothed by music; this adds **1 time point**.  If the armor is destroyed, it drops a chain shirt.  If the armor is soothed, it will follow the musician, who can use an action to play a song and make the armor take an action.  
+___
+> #### Adamantine Breastplate
+> *Medium armor (armor)*
+>
+> This breastplate is made of adamantine, one of the hardest substances in existence.
+>
+> Any critical hit against the wearer becomes a normal hit.
 
 #### Inventory
 Baemor has packed away everything worth selling into the various crates.
 
 ### Snakeberry Shrine
 Hidden amongst the trees, this shrine is impossible to find except for the Bogataw Shaman and the most well-versed ethnologists.  The only clue to its location is a patch of bushes covered in Snakeberries at the far edge of the Sleepy Snake camp.  The shrine was abandoned long ago, containing lost secrets of the old Wood Elf civilization that lived there before.
-```
-```
-
 
 #### Snakeberry Trail
 By following one Snakeberry patch to the next, the adventurers can find the shrine.  To notice the patch in the first place, the players must have talked to Aezalith about the shrine or pass a DC 18 Nature check or DC 21 Perception check.  Once the patch is discovered, a further DC 11 Nature check or DC 14 Perception check will reveal the whole trail.  If any adventurer attempts to pick the berries once on the trail, the bushes reveal themselves to be **Awakened Shrubs** and at least 6 will attack. Following the trail takes **1 time point**, fighting the angered forest takes **2 time points**.
 #### Shrine Carvings
-At the end of the trail lies a giant stone covered in swirls of different pictographs.  Two trees stand to either side of it, perfectly straight, as if engineered.  If the adventurers navigated the trail without angering the forest, they hear a deep chanting from the other side of the stone, otherwise a Firbolg stands in front of the stone with a line drawn at his feet and weapons drawn.
+At the end of the trail lies a giant stone covered in swirls of different pictographs.  Two trees stand to either side of it, perfectly straight, as if engineered.  If the adventurers navigated the trail without angering the forest, they hear a deep chanting from the other side of the stone, otherwise a Firbolg stands in front of the stone with a line drawn at his feet in dirt and weapons drawn.
+
+\page
 #### Agakwah
-The Firbolg at the shrine is a shaman known as Agakwah.  He is on a mission to discover the truth of the intense weather plaguing the region and heard that the Snake River held the story of Chaspayu and how the Wood Elves defeated the spirit long ago.  If the adventurers attack Agakwah, the two trees next to the shrine come to life as **Awakened Trees** and Agakwah retreats into the forest.  If the adventurerss befriend Agakwah, he translates the story on the ruins, teaches the players the sign for "have story", and gives them a shamanic blessing, granting advantage on the next saving throw the players have to take.
+The Firbolg at the shrine is a Bogataw known as Agakwah.  He is on a mission to discover the truth of the intense weather plaguing the region and heard that the Snake River held the story of Chaspayu and how the Wood Elves defeated the spirit long ago.  If the adventurers attack Agakwah, the two trees next to the shrine come to life as **Awakened Trees** and Agakwah retreats into the forest.  
+
+**Development.**  If the adventurers befriend Agakwah, he reveals the following:
+* The Bogataw in the main village use a powerful artifact in their rituals to bring good weather.
+
+* Snake Lake is said to be the last place the great spirit Chaspayu emerged, carving Snake River out of mountains.
+
+* The shrine tells of the wood elves creating weapons to keep the hostile guardian spirits at bay.
+
 
 ### Leaving Sleepy Snake
 After the adventurers have finished their work in the twon, they must return to Boss Bo to confirm all the supplies are packed.  The adventurers will board the Loud Fairy with Boss Bo at the wheel, and set off.  The players can pretty much occupy an area on the boat they please, but they must stay on the boat, as the Loud Fairy is moving too fast, and the waters are too turbulent for any swimmer to keep up naturally.
@@ -371,9 +384,8 @@ After the adventurers have finished their work in the twon, they must return to 
 A loud croaking can be heard around the Loud Fairy.  If the adventurers can pass a DC 15 Perception check, the relative location of the croaks can be found, allowing the adventurers to repositions before 3 **Giant Frogs** board the ship.  While the adventurers are distracted a sneaky tortle has made its way onto the Loud Fairy and is sneaking up to attack Boss Bo.  A DC 18 Percetion check reveals the tortle, and upon his defeat he smashes a bottle filled with a green smoke that blinds Boss Bo.  Because Boss Bo cannot see, he asks the crew to temporarily appoint a new pilot until the poison wears off.  The adventurers must choose someone to sit at the wheel for the next part of the journey.
 #### Level Advancement
 The players advance to the 2nd level and may take a short rest before entering the Fangs of the Snake.
-\page
 ## Fangs of the Snake
-a
+Just beyond the view of the river, a thunderous rushing grows louder and louder
 ### Navigation Challenge
 a
 #### Set Up
@@ -625,7 +637,7 @@ ___
 > ***Emit Gas.*** The Gas Elemental spews a sphere of colored gas from itself, filling a 20-foot-radius for 1 minute or until dispersed.  The effects non-Elemental creatures in the area suffer depends on the gas colors listed below:
 > * *Green:* Creatures must succeed on a DC 11 Constitution saving throw or become blinded.
 > * *Yellow:*  Creatures must succeed on a DC 13 Constitution saving throw or suffer 10 (3d6) poison damage
-> * Purple: Creatures must succeed on a DC 13 Wisdom saving throw or fall prone and become incapacitated.  At the end of each of its turns, and each time it takes damage, the creature can make another Wisdom save.​<style>
+> * *Purple*: Creatures must succeed on a DC 13 Wisdom saving throw or fall prone and become incapacitated.  At the end of each of its turns, and each time it takes damage, the creature can make another Wisdom save.​<style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
 </style>
