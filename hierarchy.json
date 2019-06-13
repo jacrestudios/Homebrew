@@ -1,6 +1,33 @@
 {"name":"root",
   "children": [
-  {"name":"Sleepy Snake","type":"location","info":""},
+  {"name":"Sleepy Snake","type":"location","info":"",
+    "children":[
+      {"name":"Sleepy Snake Inn","type":"location","info":"",
+      "children":[
+        {"name":"Boss Bo","type":"person",
+        "children": [
+          {"name":"Emergency Relief", type:"quest"}
+        ]},
+        {"name":"Tasha","type":"person"},
+        {"name":"Bazoo","type":"person"},
+        {"name":"Janya","type":"person"},
+        {"name":"Aradith","type":"person"},
+        {"name":"Emmabelle",type:"person"},
+        {"name":"Aezalith",type:"person"},
+      ]},
+      {"name":"Steve's Bait",
+      "children": [
+        {"name":"Tagadaw Steve","type":"person"},
+      ]},
+      {"name":"Frontier Supplies",
+      "children": [
+        {"name":"Baermor", "type":"person"}
+      ]},
+      {"name":"Snakeberry Shrine",
+      "children":[
+        {"name": "Agakwah", "type":"person"}
+      ]},
+    ]},
   {"name":"Fangs of the Snake"},
   {"name":"Belly of the Snake"},
   {"name":"Snake Bottom"},
