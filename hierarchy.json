@@ -1,0 +1,16 @@
+{"name":"root",
+  "children": [
+  {"name":"Sleepy Snake","type":"location","info":""},
+  {"name":"Fangs of the Snake"},
+  {"name":"Belly of the Snake"},
+  {"name":"Snake Bottom"},
+  {"name":"Floodwaters"},
+  {"name":"Oxbow Port"},
+  {"name":"Oxbow Farms"},
+  {"name":"Tribal Tributary"},
+  {"name":"Swampwater"},
+  {"name":"Boggart Bayou"},
+  {"name":"The Boss' Pad"},
+  {"name":"Gnome Grotto"},
+  {"name":"Chaspayu's Chamber"}]
+}
