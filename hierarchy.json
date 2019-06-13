@@ -1,19 +1,37 @@
 {"name":"root",
   "children": [
-  {"name":"Sleepy Snake","type":"location","info":"",
+  {"name":"Sleepy Snake","type":"location",
     "children":[
-      {"name":"Sleepy Snake Inn","type":"location","info":"",
+      {"name":"Sleepy Snake Inn","type":"location",
       "children":[
         {"name":"Boss Bo","type":"person",
         "children": [
-          {"name":"Emergency Relief", type:"quest"}
+          {"name":"Emergency Relief", "type":"quest"}
         ]},
-        {"name":"Tasha","type":"person"},
-        {"name":"Bazoo","type":"person"},
-        {"name":"Janya","type":"person"},
-        {"name":"Aradith","type":"person"},
-        {"name":"Emmabelle",type:"person"},
-        {"name":"Aezalith",type:"person"},
+        {"name":"Tasha","type":"person",
+        "children": [
+          {"name":"Soup of the Day", "type":"quest"}
+        ]},
+        {"name":"Bazoo","type":"person", 
+        "children": [
+          {"name":"Fishy Humor", "type":"quest"}
+        ]},
+        {"name":"Janya","type":"person",
+        "children": [
+          {"name":"Snagged Ring","type":"info","desc":""}
+        ]},
+        {"name":"Aradith","type":"person",
+        "children":[
+          {"name":"Boat Tactics", "type":"info","desc":""}
+        ]},
+        {"name":"Emmabelle","type":"person",
+        "children": [
+          {"name":"Missing Son", "type":"quest"}
+        ]},
+        {"name":"Aezalith","type":"person",
+        "children":[
+          {"name":"Snakeberry Information", "type":"info"}
+        ]},
       ]},
       {"name":"Steve's Bait",
       "children": [
