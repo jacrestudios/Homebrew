@@ -1,0 +1,18 @@
+<loc type="town" name="Sleepy Snake Camp">
+  <loc type="shop" name="Sleepy Snake Inn" subtype="tavern">
+  </loc>
+  <loc type="shop" name="Steve's Bait" subtype="general">
+  </loc>
+  <loc type="shop" name="Frontier Supplies" subtype="general">
+  <loc>
+  <loc type="areat" name="Snakeberry Shrine" subtype="point of interest">
+  </loc>
+</loc>
+<loc type="area" name="Fangs of the Snake" subtype="puzzle">
+</loc>
+<loc type="area" name="Belly of the Snake">
+  <loc type="area" name="Mud Valley" subtype="dungeon">
+  </loc>
+<loc>
+<loc type="town" name="Snake Bottom">
+</loc>
