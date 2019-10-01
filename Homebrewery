@@ -561,7 +561,7 @@ ___
 > - **Languages** Auran
 > - **Challenge** 1/2 (100 XP)
 > ___
-> ***Death Burst.***  When the Lightning Sprite dies it explodes ina shower of sparks.  Each creature within 5 feet of the Lightning Sprite must succeed on a DC 13 Dexterity saving throw or take 4 (1d8) lightning damage.
+> ***Death Burst.***  When the Lightning Sprite dies it explodes in a shower of sparks.  Each creature within 5 feet of the Lightning Sprite must succeed on a DC 13 Dexterity saving throw or take 4 (1d8) lightning damage.
 > ### Actions
 > ***Multiattack***  The Lightning Sprite makes two claw attacks
 > ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) slashing damage
@@ -584,7 +584,7 @@ ___
 > - **Challenge** 1/2 (100 XP)
 > ___
 > ### Actions
-> ***Drain Blood.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit:* 5 (1d6 + 2).  The target must succeed on a DC 13 Strength saving throw or take 9 (2d8) poison damage and becomes grappled.  Half of the poison damage dealt in this way is returned to the Giant Mosquito as temporary hit points.
+> ***Drain Blood.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit:* 5 (1d6 + 2).  The target must succeed on a DC 13 Strength saving throw or take 3 (1d6) poison damage and becomes grappled.  Half of the poison damage dealt in this way is returned to the Giant Mosquito as temporary hit points.
 
 ```
 ```
